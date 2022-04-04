@@ -18,7 +18,7 @@ var availableQuestions = [
     answer: 3,
   },
   {
-    question: 'An object is noted by what character?',
+    question: 'An object is noted by which character?',
     choice1: '||',
     choice2: '{ }',
     choice3: '<>',
@@ -26,7 +26,7 @@ var availableQuestions = [
     answer: 2,
   },
   {
-    question: 'An ARRAY is noted by what character?',
+    question: 'An ARRAY is noted by which character?',
     choice1: '[ ]',
     choice2: '===',
     choice3: '{ }',
